@@ -1,0 +1,33 @@
+body {
+    background-color: white;
+    color: black;
+}
+
+.resume-section {
+    padding: 20px 40px;
+}
+
+.resume-section h2 {
+    border-bottom: 2px solid #000;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+.skills-list, .education-list, .experience-list {
+    padding-left: 0;
+    list-style: none;
+}
+
+.experience-list li {
+    margin-bottom: 10px;
+}
+
+.contact-info p {
+    margin-bottom: 5px;
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
